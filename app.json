@@ -1,0 +1,8 @@
+{
+  "name": "AI Research Agent",
+  "description": "An AI-powered Research Agent built using IBM watsonx.ai that helps users search, analyze, summarize, and generate insights from research documents and user queries.",
+  "version": "1.0.0",
+  "platform": "IBM watsonx.ai",
+  "author": "Your Name",
+  "license": "MIT"
+}
